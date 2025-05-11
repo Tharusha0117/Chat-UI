@@ -1,2 +1,16 @@
-# Chat-UI
-This Flutter app features an interactive chat interface with dynamic animations using the `flutter_animate` package. It includes smooth scale animations for message bubbles and typing indicators, a gradient background, and a responsive send button with a scale effect on tap. React to messages with emojis and enjoy engaging transitions.
+# chatui
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
